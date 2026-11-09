@@ -113,13 +113,7 @@ A personal website showcasing my technical skills, projects and developer profil
 
 ---
 
-## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojswain8249&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojswain8249&layout=compact&theme=tokyonight)
-
----
 
 ## 🤝 Connect With Me
 
