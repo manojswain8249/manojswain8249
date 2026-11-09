@@ -123,13 +123,13 @@ A personal website showcasing my technical skills, projects and developer profil
 
 ## 🤝 Connect With Me
 
-📧 **Email:** manojswain8249@gmail.com
+📧 Email: manojswain8249@gmail.com
 
-💻 **GitHub:** [Manoranjan Swain](github.com/manojswain8249)
+💻 GitHub: [Manoranjan Swain](github.com/manojswain8249)
 
-🔗 **LinkedIn:**linkedin.com/in/manoranjanswain8249
+🔗 LinkedIn:linkedin.com/in/manoranjanswain8249
 
-🌐 **Portfolio:** Add your published portfolio URL
+🌐 Portfolio: Add your published portfolio URL
 
 ---
 
