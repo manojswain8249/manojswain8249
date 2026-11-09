@@ -71,13 +71,24 @@ I have a strong interest in Java programming, object-oriented concepts, database
 
 ### 🏢 Employee Management System
 A Java-based application for managing employee information and performing employee-related operations.
+Objective: Build a backend service that replaces manual employee record handling with a standard REST interface.
+• Developed RESTful CRUD endpoints to create, retrieve, update, and delete employee records.
+• Designed the application in Controller, Service, and Repository layers to keep business logic separated and maintainable.
+• Integrated MySQL using Spring Data JPA and Hibernate for object-relational mapping and persistent storage.
+Outcome: Delivered a working backend API supporting create, read, update, and delete operations for employee records.
 
-**Technologies:** Java | JDBC | MySQL
+**Technologies:Java, Spring Boot, REST API, Spring Data JPA, Hibernate, MySQ
 
 ### 🏦 Bank Management System
 A Java application that demonstrates basic banking operations and object-oriented programming concepts.
+Objective: Create a desktop application to manage customer accounts, transactions, and balance updates.
+• Developed account creation, deposit, withdrawal, and balance-update modules using Core Java and Swing.
+• Implemented JDBC connectivity to MySQL to persist account details and transaction records.
+• Applied OOP principles to structure modular, reusable classes across the application.
+• Implemented exception handling to manage invalid inputs and database errors, improving stability.
+Outcome: Delivered a functional application supporting end-to-end account and transaction operations against a MySQL database.
 
-**Technologies:** Core Java | OOPs
+**Technologies:: Java, JDBC, MySQL, Java Swing, OOP, Eclipse IDE, Git
 
 ### 💬 Chat Application
 A Java-based application for implementing messaging functionality.
